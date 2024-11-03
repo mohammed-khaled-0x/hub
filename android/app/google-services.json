@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "501748009673",
+    "project_id": "hubx-49c09",
+    "storage_bucket": "hubx-49c09.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:501748009673:android:2730fe2a426f1b0f3a9b18",
+        "android_client_info": {
+          "package_name": "com.mo0x.hub"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC22zHJP2Y631_u8FvXBnQLotzQ1iFNWOw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
